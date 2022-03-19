@@ -1,0 +1,9 @@
+{
+"server":["::0","0.0.0.0"],
+"nameserver":"1.1.1.1",
+"server_port":范围1000-65535,
+"encryption_method":"chacha20-ietf-poly1305",
+"password":"复杂长密码",
+"mode":"tcp_and_udp",
+"fast_open":false
+}
